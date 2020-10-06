@@ -1,0 +1,48 @@
+ body {
+    background-image: url(./think+.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.general{
+    text-align: center;
+    margin: 40px;
+}
+
+#input_id {
+    height: 35px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#button_id {
+    height: 40px;
+    background-color: white;
+    font-weight: 700;
+    width: 70px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.input-area {
+    justify-content: center;
+    align-items: center;
+}
+
+.output-area {
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    display: inline-flex;
+    color: red;
+    width: 200px;
+    margin-top: 20px;
+    background-color: white;
+
+}
+
+#output {
+    color: black;
+
+}
